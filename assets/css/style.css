@@ -15,7 +15,7 @@ body {
 
 /* logo */
  
-img {
+#logo img {
     max-width: 10%;
     max-height: 10%;
     display: block;
@@ -114,4 +114,12 @@ color: whitesmoke;
 #hero-text h3 {
     margin-top: 20px;
     font-weight: lighter;
+}
+
+/* about us */
+
+#about-us img {
+    margin-top: 20px;
+    width: 400px;
+    height: auto;
 }
