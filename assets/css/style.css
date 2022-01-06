@@ -78,12 +78,40 @@ color: whitesmoke;
     position: relative;
 }
 
-#hero-text, #hero-text h2 {
-    color:#3a3a3a;
-}
 
 #hero-image {
     height: 200px;
     width: 100%;
     background: url('../image/lastryko.jpg') center center;
+}
+
+/* hero image text */
+
+#hero-text {
+    font-size: 200%;
+    font-family: Montserrat, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-align: center;
+
+    width: 600px;
+    height: 150px;
+
+    padding-top: 15px;
+    padding-left: 15px;
+
+    background-color: whitesmoke;
+
+    position: absolute;
+    top: 20px;
+    right: 460px;
+}
+
+#hero-text h2 {
+    font-weight: 5000;
+}
+
+#hero-text h3 {
+    margin-top: 20px;
+    font-weight: lighter;
 }
