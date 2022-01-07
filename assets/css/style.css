@@ -118,8 +118,22 @@ color: whitesmoke;
 
 /* about us */
 
+#about-us {
+    display: block;
+}
+
 #about-us img {
-    margin-top: 20px;
-    width: 400px;
-    height: auto;
+    margin: 10px 0 10px 0;
+    width: 25%;
+    height: 400px;
+    display: inline-block;
+    margin-left: 5%;
+}
+
+#about-text {
+    display: inline-block;
+    margin: 10px 0 10px 0;
+    width: 55%;
+    height: 250px;
+    background: whitesmoke;
 }
