@@ -121,7 +121,6 @@ color: whitesmoke;
 #about-us {
     height: 25%;
     width: 70%;
-    float: left;
     margin: 1% 2% 5% 2%;
     background: whitesmoke;
     margin-left: 15%;
@@ -138,7 +137,7 @@ color: whitesmoke;
 
 #about-us hr {
     border-bottom: 2px solid #3a3a3a;
-    width: 15%;
+    width: 13%;
     margin: 1px;
 }
 
@@ -149,4 +148,10 @@ color: whitesmoke;
 
 #about-us h2 {
     margin-top: 1%;
+}
+
+/* footer */
+
+footer {
+    height: 100px;
 }
