@@ -119,21 +119,34 @@ color: whitesmoke;
 /* about us */
 
 #about-us {
-    display: block;
+    height: 25%;
+    width: 70%;
+    float: left;
+    margin: 1% 2% 5% 2%;
+    background: whitesmoke;
+    margin-left: 15%;
+
+    position: relative;
 }
 
 #about-us img {
-    margin: 10px 0 10px 0;
-    width: 25%;
-    height: 400px;
-    display: inline-block;
-    margin-left: 5%;
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin: 2% 2% 2% 2%;
 }
 
-#about-text {
-    display: inline-block;
-    margin: 10px 0 10px 0;
-    width: 55%;
-    height: 250px;
-    background: whitesmoke;
+#about-us hr {
+    border-bottom: 2px solid #3a3a3a;
+    width: 15%;
+    margin: 1px;
+}
+
+#about-us p {
+    font-weight: 500;
+    margin: 15px 15px 10px 15px;
+}
+
+#about-us h2 {
+    margin-top: 1%;
 }
