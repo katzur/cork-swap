@@ -157,21 +157,26 @@ footer {
     height: 100px;
 }
 
-
-/* social networks */
-
-.social-networks {
-    text-align: right;
+li {
+    display: inline-block;
 }
 
-.social-networks > li {
-    display: inline;
+.social-networks {
+    float: right;
 }
 
 .social-networks i {
     font-size: 120%;
     color: #3a3a3a;
-    padding: 0.5%;
-    margin: 0.5%;
+    margin-right: 10px;
 }
 
+.contact {
+    float: left;
+}
+
+.contact i {
+    font-size: 120%;
+    color: #3a3a3a;
+    margin-left: 10px;
+}
