@@ -157,6 +157,8 @@ footer {
     height: 100px;
 }
 
+/* contact and social media info icons */
+
 li {
     display: inline-block;
 }
@@ -168,7 +170,7 @@ li {
 .social-networks i {
     font-size: 120%;
     color: #3a3a3a;
-    margin-right: 10px;
+    margin-right: 20px;
 }
 
 .contact {
@@ -178,5 +180,17 @@ li {
 .contact i {
     font-size: 120%;
     color: #3a3a3a;
-    margin-left: 10px;
+    margin-left: 20px;
+}
+
+/* email newsletter signup footer section */
+
+#email {
+    border: 2px solid #3a3a3a;
+    font-size: 110%;
+    margin-top: 30px;
+    margin-left: 30%;
+    width: 33%;
+    font-family: Montserrat, sans-serif;
+    text-align: center;
 }
