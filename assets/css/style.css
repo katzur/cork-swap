@@ -124,6 +124,7 @@ color: whitesmoke;
     margin: 1% 2% 5% 2%;
     background: whitesmoke;
     margin-left: 15%;
+    padding: 20px;
 
     position: relative;
 }
@@ -155,3 +156,22 @@ color: whitesmoke;
 footer {
     height: 100px;
 }
+
+
+/* social networks */
+
+.social-networks {
+    text-align: right;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 120%;
+    color: #3a3a3a;
+    padding: 0.5%;
+    margin: 0.5%;
+}
+
