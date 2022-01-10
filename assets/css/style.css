@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:wght@200&display=swap');
 
+
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
+
 
 body {
     font-family: Montserrat, sans-serif;
@@ -157,6 +159,8 @@ border-radius: 3px;
 
 footer {
     height: 100px;
+    background-color: whitesmoke;
+    padding: 20px;
 }
 
 /* contact and social media info icons */
@@ -217,3 +221,10 @@ li {
     background-color: #252525;
     color: whitesmoke;
     }
+
+footer > p {
+    text-align: center;
+    margin-top: 50px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
