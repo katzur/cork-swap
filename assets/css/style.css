@@ -7,7 +7,6 @@
     border: none;
 }
 
-
 body {
     font-family: Montserrat, sans-serif;
     font-weight: 300;
@@ -263,6 +262,7 @@ footer > p {
     text-transform: uppercase;
     letter-spacing: 4px;
     font-weight: 900;
+    margin-right: 5px;
 }
 
 #reasons i {
@@ -272,4 +272,13 @@ footer > p {
     background-color: whitesmoke;
     padding: 10px;
     border-radius: 50%;
+}
+
+#reasons h4 {
+    font-family: Montserrat, sans-serif;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 110%;
+    margin-right: 5px;
 }
