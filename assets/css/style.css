@@ -282,3 +282,23 @@ footer > p {
     font-size: 110%;
     margin-right: 7px;
 }
+
+/* gallery */
+
+img {
+    width: 100%;
+}
+      
+#photos {
+    column-count: 4;
+    column-gap: 10px;
+    margin-right: 20px;
+}
+      
+#photos .gallery {
+    display: inline-block;
+    margin-bottom: 15px;
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 15px;
+}
