@@ -228,3 +228,28 @@ footer > p {
     letter-spacing: 2px;
     font-weight: bold;
 }
+
+/* reasons section */
+
+#reasons {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+}
+
+#reasons div {
+    background-image: url(../image/lastryko.jpg);
+    width: 20%;
+    height: 200px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 2px solid #3a3a3a;
+    box-sizing: border-box;
+    margin-left: 4%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
