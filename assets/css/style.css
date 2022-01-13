@@ -336,5 +336,9 @@ img {
     padding: 10px 0 10px 15px;
     width: 30%;
     margin-left: 36%;
+    border: 2px solid #3a3a3a;
+    border-radius: 5px;
+    line-height: 2;
 }
+
 
