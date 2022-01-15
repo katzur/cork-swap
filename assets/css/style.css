@@ -342,4 +342,54 @@ img {
     line-height: 2;
 }
 
+/* media queries */
 
+/*for larger to medium size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+
+    #logo img {
+        max-width: 15%;
+        max-height: 15%;
+        margin-top: 40px;
+    }
+
+    #menu li {
+        margin: 20px 0 10px 15px;
+    }
+
+    #hero-text {
+        right: 10%;
+        font-size: 170%;
+        height: 130px;
+        margin-top: 5px;
+    }
+
+    #about-us img {
+        height: 40%;
+        width: 40%;
+        padding: 10px;
+    }
+
+    #about-us hr {
+        width: 20%;
+    }
+
+    #about-us p {
+        text-align: justify;
+        font-size: 110%;
+    }
+    
+    #email {
+        margin-left: 15%;
+        width: 48%;
+        font-size: 85%;
+    }
+
+    #submit {
+        width: 17%;
+        margin-left: 42%;
+    }
+
+
+}
