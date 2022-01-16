@@ -359,10 +359,9 @@ img {
     }
 
     #hero-text {
-        right: 10%;
-        font-size: 170%;
-        height: 130px;
+        right: 20%;
         margin-top: 5px;
+        height: 140px;
     }
 
     #about-us img {
@@ -390,6 +389,13 @@ img {
         width: 17%;
         margin-left: 42%;
     }
+
+    #reasons div {
+        padding: 10px 0 0 0;
+
+    }
+
+
 
 
 }
