@@ -394,6 +394,16 @@ img {
         padding: 10px 0 0 5px;
 
     }
+
+    #timetable h4 {
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    #timetable h1 {
+        margin-left: 25%;
+        margin-right: 23%;
+    }
 }
 
 /* for medium screen sizes from 950px wide and down */
@@ -401,13 +411,21 @@ img {
 @media screen and (max-width: 950px) {
 
     #about-us img {
-        width: 50%;
-        height: 50%;
+        width: 60%;
+        height: 60%;
+    }
+
+    #hero-text {
+        right: 12%;
     }
 
     #reasons div {
         width: 30%;
         margin-left: 15%;
+    }
+
+    #photos {
+        column-count: 2;
     }
 
     #timetable h4 {
@@ -420,4 +438,10 @@ img {
         margin-right: 23%;
     }
 
+    #email {
+        width: 50%;
+    }
+
 }
+
+/* for small screen sizes (phones) from 600px and down */
