@@ -391,11 +391,33 @@ img {
     }
 
     #reasons div {
-        padding: 10px 0 0 0;
+        padding: 10px 0 0 5px;
 
     }
+}
 
+/* for medium screen sizes from 950px wide and down */
 
+@media screen and (max-width: 950px) {
 
+    #about-us img {
+        width: 50%;
+        height: 50%;
+    }
+
+    #reasons div {
+        width: 30%;
+        margin-left: 15%;
+    }
+
+    #timetable h4 {
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    #timetable h1 {
+        margin-left: 25%;
+        margin-right: 23%;
+    }
 
 }
