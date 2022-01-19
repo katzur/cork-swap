@@ -110,5 +110,18 @@ I have chosen two fonts that have a continual use case throughout the design of 
 - [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) - easy-to-read sans-serif font that aesthetically compliments Montserrat in paragraph elements.
 
 ## Icons and images
-The main source for icons used throughout the website is [Font Awesome](https://fontawesome.com/).
-The main source for images used in gallery section and the background image is [Pexels](https://www.pexels.com/).
+- The main source for icons used throughout the website is [Font Awesome](https://fontawesome.com/).
+- The main source for images used in gallery section and the background image is [Pexels](https://www.pexels.com/).
+
+# Testing
+## [HTML Validator](https://validator.w3.org/)
+No errors were returned when passing through the official W3C validator. [Results](/assets/image-readme/html-validator.jpg)
+
+## [Jigsaw CSS Validator](https://jigsaw.w3.org/css-validator/validator)
+No errors were returned when passing through the official Jigsaw validator. [Results](/assets/image-readme/jigsaw-css.jpg)
+
+## [Lighthouse accessibility (Chrome DevTools)](https://developers.google.com/web/tools/lighthouse/)
+I confirmed that the colors and fonts chosen are easily readable and accessible by running it through Lighthouse in DevTools (both mobile and desktop versions).
+- [Desktop results](/assets/image-readme/lighthouse-performance-desktop.jpg)
+- [Mobile results](/assets/image-readme/lighthouse-performance-dmobile.jpg)
+
