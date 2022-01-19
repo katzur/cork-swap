@@ -162,7 +162,7 @@ When the above steps have been completed, it can sometimes take a lmoment for th
 
 ## Content
 - The code inspiration to this project was based on the CI Love Runnning Project (header, social media, reasons to swap).
-- Page layout inspiration came during the browsing for simple web designs on Pinterest.
+- Page layout inspiration came during the browsing for simple web designs on [Pinterest](https://pinterest.com/).
 - Gallery section Masonry Style code was inspired by [this page](https://codepen.io/CyFox/pen/MWWEwjg).
 
 ## Media 
