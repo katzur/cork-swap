@@ -74,15 +74,32 @@ About Us, Why To Swap, Swap Snaps, Next Swap, which link to different sub-pages 
 ## Why to Swap 
 - Gives the users additional source of information about swap idea, and simply explains the reasons why it's worth participating in swap events and stay more environmentally cautious and get involved in sustainable fashion trend.
 - This section uses 4 simple elements with icons. It gives simple, user-friendly explanations of the idea behind the Cork Swap project.
-[!SCSH  of Why to Swap section](/assets/image-readme/why-to-swap-image.jpg)
+![SCSH  of Why to Swap section](/assets/image-readme/why-to-swap-image.jpg)
 
 ## Swap Snaps (Gallery)
 - The Gallery section includes photos from the last events, which helps with the project-user communication, shows the user how events look like and gives visualization of them. Photos are organized in clear, mordern way using Masonry Style.
-[!SCSH of gallery section](/assets/image-readme/gallery-image.jpg)
+![SCSH of gallery section](/assets/image-readme/gallery-image.jpg)
 
 ## Next Swap
 - Next Swap section gives the users table with upcoming Cork Swap event place and time. This section is constructed to give the user easily accessible and clear information about the next swap event. Presented information is consistent in style with the rest of the page.
-[!SCSH of Next Swap section](/assets/image-readme/next-swap-image.jpg)
+![SCSH of Next Swap section](/assets/image-readme/next-swap-image.jpg)
 
+# Wireframes
+## Desktop
+- [About Us](/assets/image-readme/index-wireframe-desktop.jpg)
+- [Why To Swap](/assets/image-readme/why-to-swap-wireframe-desktop.jpg)
+- [Swap Snaps (Gallery)](/assets/image-readme/gallery-wireframe-desktop.jpg)
+- [Next Swap](/assets/image-readme/next-swap-wireframe-desktop.jpg)
 
+## Mobile
+- [About Us](/assets/image-readme/index-wireframe-mobile.jpg)
+- [Why To Swap](/assets/image-readme/why-to-swap-wireframe-mobile.jpg)
+- [Swap Snaps (Gallery)](/assets/image-readme/gallery-wireframe-mobile.jpg)
+- [Next Swap](/assets/image-readme/next-swap-wireframe-mobile.jpg)
 
+# Website Surface
+## Colors
+The colors used throughout the site for its main styling are shown below. They are complimented by more colorful background image to give the website consistent, clean look. These colors and background were intentionally picked to keep the modern, simple design. They compliment each other well and keep great page contrast, which makes it more user-friendly and readable. 
+
+![Website color pallete](/assets/image-readme/website-colors.jpg)
+![Contrast checker](/assets/image-readme/contrast-checker.jpg)
