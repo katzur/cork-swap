@@ -155,4 +155,24 @@ The steps to deploy via GitHub pages:
 
 When the above steps have been completed, it can sometimes take a lmoment for the deployed URL to update. It is enough to refresh the page until the site is fully deployed.
 
+# Used technologies and credits
+## Languages
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
 
+## Content
+- The code inspiration to this project was based on the CI Love Runnning Project (header, social media, reasons to swap).
+- Page layout inspiration came during the browsing for simple web designs on Pinterest.
+- Gallery section Masonry Style code was inspired by [this page](https://codepen.io/CyFox/pen/MWWEwjg).
+
+## Media 
+- The images for the gallery, and the background were taken from [Pexels](https://www.pexels.com/).
+- The logo and about us animated image were created on [VistaCreate page](https://create.vista.com/).
+- The icons used on the page come from [FontAwesome](https://fontawesome.com/).
+- Fonts used throughout the website were imported from [Google Fonts](https://fonts.google.com/).
+- Color pallete creator and contrast checker were made on [Coolors page](https://coolors.co/).
+
+## Other technologies
+- [Balsamic](https://balsamiq.com/) was used to design wireframes for the website.
+- [GitHub](https://github.com/) provided a repository for the website.
+- [Code Intitute Slack](https://slack.com/) CI community provided all neccessary help thoughout the project development. Huge thank you to all the Slack CI fellow students, mentors, and cohort coordinator.
