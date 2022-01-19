@@ -73,17 +73,19 @@ border-radius: 3px;
 /* hero image */
 
 #hero-outer {
-    height: 200px;
-    width: 100%;
-    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr;
 
-    position: relative;
+    justify-items: center;
+    align-items: center;
 }
 
 #hero-image {
-    height: 200px;
+    height: 250px;
     width: 100%;
     background: url('../image/lastryko.jpg') center center;
+    grid-column: 1;
+    grid-row: 1;
 }
 
 /* hero image text */
@@ -94,18 +96,13 @@ border-radius: 3px;
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
-
-    width: 600px;
-    height: 150px;
-
-    padding-top: 15px;
-    padding-left: 15px;
+    height: 60%;
+    padding: 10px;
 
     background-color: whitesmoke;
-
-    position: absolute;
-    top: 20px;
-    right: 460px;
+    
+    grid-column: 1;
+    grid-row: 1;
 }
 
 #hero-text h2 {
@@ -355,11 +352,6 @@ img {
         margin: 20px 0 10px 15px;
     }
 
-    #hero-text {
-        right: 20%;
-        margin-top: 5px;
-        height: 140px;
-    }
 
     #about-us img {
         height: 40%;
@@ -413,12 +405,12 @@ img {
     }
 
     #hero-text {
-        right: 12%;
+        font-size: 180%;
     }
 
     #reasons div {
-        width: 30%;
-        margin-left: 15%;
+        width: 35%;
+        margin-left: 10%;
     }
 
     #photos {
@@ -438,7 +430,6 @@ img {
     #email {
         width: 50%;
     }
-
 }
 
 /* for small screen sizes 768px and down */
@@ -464,8 +455,6 @@ img {
 
     #hero-text {
         font-size: 160%;
-        width: 500px;
-        right: 13%;
     }
 
     #email {
@@ -481,7 +470,6 @@ img {
     #timetable h4 {
         font-size: 140%;
     }
-
 }
 
 /* for small screen sizes 600px and down */
@@ -508,7 +496,6 @@ img {
     #hero-text {
         font-size: 140%;
         width: 350px;
-        right: 10%;
     }
 
     #about-us img {
@@ -542,14 +529,14 @@ img {
     }
 
     #submit {
-        width: 32%;
+        width: 35%;
         margin-left: 35%;
         font-size: 100%;
     }
 
     #reasons div {
-        width: 45%;
-        margin-left: 3%;
+        width: 65%;
+        margin-left: 20%;
         margin-bottom: 4%;
     }
 
@@ -566,7 +553,6 @@ img {
         font-size: 160%;
         margin-left: 17%;
     }
-
 }
 
 /* for extra small screen sizes 400px and down */
@@ -574,9 +560,8 @@ img {
 @media screen and (max-width: 400px) {
 
     #hero-text {
-        font-size: 110%;
+        font-size: 120%;
         width: 250px;
-        right: 6%;
     }
 
     #about-us {
@@ -625,5 +610,4 @@ img {
         margin-left: 20%;
         padding: 5px 5px 5px 5px;
     }
-
 }
