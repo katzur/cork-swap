@@ -138,3 +138,21 @@ I confirmed that the colors and fonts chosen are easily readable and accessible 
 ![Bug before fixing](/assets/image-readme/bug-before.jpg)
 ![Bug after fixing](/assets/image-readme/bug-after.jpg)
 
+# Deployment 
+## GitHub pages
+
+The steps to deploy via GitHub pages:
+
+1. Log into Github account.
+2. Navigate to the [Repository](https://github.com/roomacarthur/the-tipsy-quiz).
+3. Click the 'Settings' option at the top of the repository.
+4. Click the 'Pages' option on the left-hand menu, located near the bottom.
+5. Within the 'Source' tab Select the drop-down titled 'None'.
+6. Select the branch named 'main' (in some cases it can be named 'Master').
+7. Click 'Save'.
+8. You will be prompted with a URL to your deployed site.
+9. Site deployed.
+
+When the above steps have been completed, it can sometimes take a lmoment for the deployed URL to update. It is enough to refresh the page until the site is fully deployed.
+
+
