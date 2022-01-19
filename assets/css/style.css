@@ -248,6 +248,11 @@ footer > p {
     margin-left: 4%;
     margin-top: 2%;
     margin-bottom: 2%;
+    transition: transform .2s;
+}
+
+#reasons div:hover {
+    transform: scale(1.1);
 }
 
 #reasons h2 {
@@ -575,7 +580,7 @@ img {
     }
 
     #about-us p {
-        font-size: 100%;
+        font-size: 85%;
     }
 
     #email {
@@ -593,6 +598,7 @@ img {
     #reasons div {
         width: 65%;
         margin-left: 20%;
+        margin-top: 3%;
     }
 
     #photos {
