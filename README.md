@@ -103,3 +103,12 @@ The colors used throughout the site for its main styling are shown below. They a
 
 ![Website color pallete](/assets/image-readme/website-colors.jpg)
 ![Contrast checker](/assets/image-readme/contrast-checker.jpg)
+
+## Typography
+I have chosen two fonts that have a continual use case throughout the design of the page.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat?query=montserrat) - main font that is used on the page for logo, navigation, headers. Very easy to read, modern looking font. For the website purpose used bolder with extra spacing between the letters.
+- [Poppins](https://fonts.google.com/specimen/Poppins?query=poppins) - easy-to-read sans-serif font that aesthetically compliments Montserrat in paragraph elements.
+
+## Icons and images
+The main source for icons used throughout the website is [Font Awesome](https://fontawesome.com/).
+The main source for images used in gallery section and the background image is [Pexels](https://www.pexels.com/).
