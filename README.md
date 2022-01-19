@@ -71,3 +71,18 @@ About Us, Why To Swap, Swap Snaps, Next Swap, which link to different sub-pages 
 - The last element included in the footer is the copyright section on the very bottom of the page.
 ![SCSH of the footer section](/assets/image-readme/footer-image.jpg)
 
+## Why to Swap 
+- Gives the users additional source of information about swap idea, and simply explains the reasons why it's worth participating in swap events and stay more environmentally cautious and get involved in sustainable fashion trend.
+- This section uses 4 simple elements with icons. It gives simple, user-friendly explanations of the idea behind the Cork Swap project.
+[!SCSH  of Why to Swap section](/assets/image-readme/why-to-swap-image.jpg)
+
+## Swap Snaps (Gallery)
+- The Gallery section includes photos from the last events, which helps with the project-user communication, shows the user how events look like and gives visualization of them. Photos are organized in clear, mordern way using Masonry Style.
+[!SCSH of gallery section](/assets/image-readme/gallery-image.jpg)
+
+## Next Swap
+- Next Swap section gives the users table with upcoming Cork Swap event place and time. This section is constructed to give the user easily accessible and clear information about the next swap event. Presented information is consistent in style with the rest of the page.
+[!SCSH of Next Swap section](/assets/image-readme/next-swap-image.jpg)
+
+
+
