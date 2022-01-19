@@ -87,13 +87,13 @@ About Us, Why To Swap, Swap Snaps, Next Swap, which link to different sub-pages 
 # Wireframes
 ## Desktop
 - [About Us](/assets/image-readme/index-wireframe-desktop.jpg)
-- [Why To Swap](/assets/image-readme/why-to-swap-wireframe-desktop.jpg)
+- [Why Swap](/assets/image-readme/why-to-swap-wireframe-desktop.jpg)
 - [Swap Snaps (Gallery)](/assets/image-readme/gallery-wireframe-desktop.jpg)
 - [Next Swap](/assets/image-readme/next-swap-wireframe-desktop.jpg)
 
 ## Mobile
 - [About Us](/assets/image-readme/index-wireframe-mobile.jpg)
-- [Why To Swap](/assets/image-readme/why-to-swap-wireframe-mobile.jpg)
+- [Why Swap](/assets/image-readme/why-to-swap-wireframe-mobile.jpg)
 - [Swap Snaps (Gallery)](/assets/image-readme/gallery-wireframe-mobile.jpg)
 - [Next Swap](/assets/image-readme/next-swap-wireframe-mobile.jpg)
 
