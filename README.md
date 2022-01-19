@@ -14,7 +14,7 @@
     2. [Header](#header)
     3. [About Us](#about-us)
     4. [Footer](#footer)
-    5. [Why To Swap](#why-to-swap)
+    5. [Why Swap](#why-to-swap)
     6. [Swap Snaps (Gallery)](#swap-snaps-gallery)
     7. [Next Swap](#next-swap)
 3. [Wireframes](#wireframes)
@@ -43,7 +43,7 @@ Users of this website will be able to find more information about the sustainabl
 This website is targeted towards all the teenagers and adults (without age limit), who live in Cork City area, who want to join clothes exchange meetings, save money and live more eco-friendly.
 
 # Website structure
-![Website look on multiple devices.](/assets/image-readme/cork-swap-responsive.jpg)
+![Website look on multiple devices.](/assets/image-readme/responsiveness.jpg)
 
 ## Navigation
 - Featured at the top of the page, navigation shows the Cork Swap project name and logo in the middle that links to the index page (About Us).
@@ -52,7 +52,7 @@ About Us, Why To Swap, Swap Snaps, Next Swap, which link to different sub-pages 
 - The navigation links are using similar font to the one used in the logo – bold, uppercase, with visible letter spacing, sans-serif (Montserrat), which make the font used over the navigation menu more consistent and very visible for the user. 
 - Color used for the font easily contrasts with the background and pops above the hero image.
 - Navigation clearly shows the name and logo of Cork Swap project, and thanks to selected colors and fonts – the information about different sections of the website is easy to find for the users.
-![SCSH of navigation section](/assets/image-readme/navigation-image.jpg)
+![SCSH of navigation section](/assets/image-readme/navigation.jpg)
 
 ## Header
 - The Header shows the motto of Cork Swap in uppercase, large font that is consistent with the navigation style: “Swap with us! Less waste, more love!” to  clearly, and briefly explain the user idea behind the project. 
@@ -71,10 +71,10 @@ About Us, Why To Swap, Swap Snaps, Next Swap, which link to different sub-pages 
 - The last element included in the footer is the copyright section on the very bottom of the page.
 ![SCSH of the footer section](/assets/image-readme/footer-image.jpg)
 
-## Why to Swap 
+## Why Swap 
 - Gives the users additional source of information about swap idea, and simply explains the reasons why it's worth participating in swap events and stay more environmentally cautious and get involved in sustainable fashion trend.
 - This section uses 4 simple elements with icons. It gives simple, user-friendly explanations of the idea behind the Cork Swap project.
-![SCSH  of Why to Swap section](/assets/image-readme/why-to-swap-image.jpg)
+![SCSH  of Why Swap section](/assets/image-readme/why-to-swap-image.jpg)
 
 ## Swap Snaps (Gallery)
 - The Gallery section includes photos from the last events, which helps with the project-user communication, shows the user how events look like and gives visualization of them. Photos are organized in clear, mordern way using Masonry Style.
