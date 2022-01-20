@@ -37,6 +37,7 @@
     2. [Content](#content)
     3. [Media](#media)
     4. [Other technologies](#other-technologies)
+    5. [Credits](#credits)
 
 
 # About the project
@@ -206,4 +207,6 @@ To make a local clone of the project follow these steps:
 ## Other technologies
 - [Balsamic](https://balsamiq.com/) was used to design wireframes for the website.
 - [GitHub](https://github.com/) provided a repository for the website.
+
+## Credits
 - [Code Intitute Slack](https://slack.com/) CI community provided all neccessary help thoughout the project development. Huge thank you to all the Slack CI fellow students, my mentor, and our msletb-nov-2021 cohort facilitator.
