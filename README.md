@@ -197,6 +197,7 @@ To make a local clone of the project follow these steps:
 
 ## Media 
 - The images for the gallery, and the background were taken from [Pexels](https://www.pexels.com/).
+- The images compression done on the [Optimizilla page](https://imagecompressor.com/).
 - The logo and about us animated image were created on [VistaCreate page](https://create.vista.com/).
 - The icons used on the page come from [FontAwesome](https://fontawesome.com/).
 - Fonts used throughout the website were imported from [Google Fonts](https://fonts.google.com/).
@@ -205,4 +206,4 @@ To make a local clone of the project follow these steps:
 ## Other technologies
 - [Balsamic](https://balsamiq.com/) was used to design wireframes for the website.
 - [GitHub](https://github.com/) provided a repository for the website.
-- [Code Intitute Slack](https://slack.com/) CI community provided all neccessary help thoughout the project development. Huge thank you to all the Slack CI fellow students, mentors, and cohort coordinator.
+- [Code Intitute Slack](https://slack.com/) CI community provided all neccessary help thoughout the project development. Huge thank you to all the Slack CI fellow students, my mentor, and our msletb-nov-2021 cohort facilitator.
