@@ -139,6 +139,7 @@ I confirmed that the colors and fonts chosen are easily readable and accessible 
 ## Solved bugs
 - When the file got deployed I discovered that website title shows up on the top of every page in form of text element, that I wasn't able to remove or hide using CSS.
 - I discovered that one of the closing tags in head element was not used properly and was missing one of the angle brackets that was influencing the title element to display on the page. Once closed properly – it moved title out of body into its proper function, and fixed the problem.
+
 ![Bug before fixing](/assets/image-readme/bug-before.jpg)
 ![Bug after fixing](/assets/image-readme/bug-after.jpg)
 
@@ -205,7 +206,7 @@ To make a local clone of the project follow these steps:
 - Color pallete creator and contrast checker were made on [Coolors page](https://coolors.co/).
 
 ## Other technologies
-- [Balsamic](https://balsamiq.com/) was used to design wireframes for the website.
+- [Balsamiq](https://balsamiq.com/) was used to design wireframes for the website.
 - [GitHub](https://github.com/) provided a repository for the website.
 
 ## Credits
